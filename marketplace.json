@@ -1,0 +1,12 @@
+{
+  "name": "superpowers-marketplace",
+  "description": "Marketplace for customized Superpowers plugin",
+  "plugins": [
+    {
+      "name": "superpowers",
+      "description": "Customized skills library for Claude Code",
+      "version": "4.3.1",
+      "source": "arsenal0615/superpowers"
+    }
+  ]
+}
